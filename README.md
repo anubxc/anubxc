@@ -2,8 +2,8 @@
 
 I'm a student passionate about **Web Development** and **Data Analysis**.
 
-- ✅ Completed: HTML, CSS  
-- 🚀 Learning: JavaScript, React  
+- ✅ Completed: HTML, CSS, Javascript  
+- 🚀 Learning:React  
 - 🎯 Goal: Turning ideas and imaginations into functional code  
 - 🎧 I enjoy building side projects and listening to music
 
