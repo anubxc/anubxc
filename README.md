@@ -1,9 +1,9 @@
 ### Hi there, I'm Anubhav Gupta 👋
 
-I'm a student passionate about **Web Development** and **Data Analysis**.
+*I'm a student passionate about **Web Development** and **Data Analysis**.*
 
-- ✅ Completed: HTML, CSS, Javascript  
-- 🚀 Learning:React  
+- ✅ Completed: HTML, CSS, Javascript, Python
+- 🚀 Learning:React, C++
 - 🎯 Goal: Turning ideas and imaginations into functional code  
 - 🎧 I enjoy building side projects and listening to music
 
