@@ -43,7 +43,7 @@
 ## <img src="https://badgen.net/badge/Connect/with%20me/blue" alt="Connect"/>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/anubhav-gupta-5382b8154">
+  <a href="https://www.linkedin.com/in/anubhav-gupta-08b1bb277/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
