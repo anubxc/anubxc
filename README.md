@@ -32,7 +32,8 @@
 
 🚀 **Turning dreams into codes......**
 
-- 🎓 Computer Science Engineering Student at FET Agra.
+- 🎓 Computer Science Engineering Student at BBDIT, Ghaziabad.
+- ✨ **Focus:** Passionate about **Frontend Development**, but I also enjoy building **Full Stack** applications.
 - ✅ **Specialization:** High-performance, modern Web Applications.
 - 🚀 **Learning:** Advanced Data Structures and C++ Systems Programming.
 - 🎧 Passionate about building side projects that solve real-world problems.
