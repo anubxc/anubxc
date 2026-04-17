@@ -54,6 +54,9 @@
   <a href="https://github.com/anubxc">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://avgupta.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-181717?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 [1]: https://github.com/anubxc/interview-ai
