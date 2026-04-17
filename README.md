@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://avgupta.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-181717?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
