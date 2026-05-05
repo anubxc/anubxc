@@ -24,9 +24,9 @@
 
 | Project | Description | Tech Stack | Stars |
 | :--- | :--- | :--- | :--- |
-| [Ecobin][1] | Smart waste management platform with real-time bin tracking, reward-based recycling system, and admin analytics dashboard. | React, Node.js, Express, MongoDB, Tailwind | ![stars](https://img.shields.io/github/stars/anubxc/ecobin?style=flat&logo=github) |
-| [Interview AI][2] | Full-stack AI platform for practice interviews with real-time feedback and performance analysis. | React 19, Express, Groq AI | ![stars](https://img.shields.io/github/stars/anubxc/interview-ai?style=flat&logo=github) |
-| [Media Uploader][3] | Scalable media management system with secure uploads, image processing, and cloud storage integration. | Node.js, Express, Multer | ![stars](https://img.shields.io/github/stars/anubxc/media-uploader?style=flat&logo=github) |
+| [Ecobin][1] | Smart waste management system with real-time bin tracking, reward-based recycling, and admin analytics dashboard for monitoring environmental impact. | React, Node.js, Express, MongoDB, Tailwind | ![stars](https://img.shields.io/github/stars/anubxc/ecobin?style=flat&logo=github) |
+| [Interview AI][2] | Full-stack AI platform for practice interviews with real-time feedback and performance insights. | React 19, Express, Groq AI | ![stars](https://img.shields.io/github/stars/anubxc/interview-ai?style=flat&logo=github) |
+| [Media Uploader][3] | Scalable media management system with secure uploads, image processing, and storage optimization. | Node.js, Express, Multer | ![stars](https://img.shields.io/github/stars/anubxc/media-uploader?style=flat&logo=github) |
 
 ## <img src="https://badgen.net/badge/About/Me/purple?icon=awesome" alt="About Me"/>
 
